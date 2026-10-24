@@ -1,12 +1,12 @@
-```
-×Post Note
+# DorkNet
+Selenium powered Python script to automate searching the web for vulnerable applications.
+
+### ×Post's note
+
 Python Script refactored to Python3
 README.md not updated.
 
-```
-
-# DorkNet
-Selenium powered Python script to automate searching the web for vulnerable applications.
+---
 
 DorkNet can take a single dork or a list of dorks as arguments. After the proper command line arguments have been passed, the script will use Selenium and Geckodriver to find the results we want and save them to a textfile for further processing with SQLmap or similar utilities.
 
