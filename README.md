@@ -1,3 +1,10 @@
+```
+×Post Note
+Python Script refactored to Python3
+README.md not updated.
+
+```
+
 # DorkNet
 Selenium powered Python script to automate searching the web for vulnerable applications.
 
