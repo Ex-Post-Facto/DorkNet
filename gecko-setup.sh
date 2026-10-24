@@ -1,4 +1,9 @@
 #!/bin/bash
+#
+# Latest Selenium packs webdrivers with release IIRC
+# May change this to grab latest version of the webdriver
+#
+#
 
 # Coloring scheme for notfications and logo
 ESC="\x1b["
